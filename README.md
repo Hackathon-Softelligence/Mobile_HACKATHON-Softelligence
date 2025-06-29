@@ -29,3 +29,21 @@ An Android-based real-time drowsiness detection system using ML Kit Face Detecti
 
 ## 📦 Project Structure
 
+
+---
+
+## 📝 How it Works
+
+1. **CameraX** streams frames to `FaceAnalyzer`
+2. **ML Kit** processes the frame and detects:
+   - Eye state (open/closed)
+   - Face pose (looking away/down)
+   - Number of faces
+3. On detection thresholds:
+   - A **warning is shown**
+   - An event is **pushed to Firestore** with user details and (optional) image
+
+---
+
+## 🔐 Firestore Structure
+
