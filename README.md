@@ -55,3 +55,9 @@ An Android-based real-time drowsiness detection system using ML Kit Face Detecti
 
 ## 🔐 Firestore Structure
 
+
+---
+
+@Softelligence
+
+
