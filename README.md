@@ -66,14 +66,3 @@ An Android-based real-time drowsiness detection system using ML Kit Face Detecti
 
 ---
 
-## 🔍 Features
-
-- 🚗 Real-time **face and eye detection** using ML Kit
-- 🧠 Head pose estimation and validation
-- 👥 Detection of **multiple people** in camera frame
-- 🔴 **Red bounding boxes** drawn around detected faces
-- 📸 Automatic **incident logging** to Firestore
-- ☁️ Firebase integration: Firestore + Cloud Storage (planned)
-- ⚙️ MVP Architecture with clean separation of concerns
-
----
