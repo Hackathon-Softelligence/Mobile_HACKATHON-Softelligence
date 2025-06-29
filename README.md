@@ -4,6 +4,14 @@ An Android-based real-time drowsiness detection system using ML Kit Face Detecti
 
 ---
 
+## 🚀 Getting Started
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/drowsiness-alert-system.git
+
+---
+
 ## 🔍 Features
 
 - 🚗 Real-time **face and eye detection** using ML Kit
