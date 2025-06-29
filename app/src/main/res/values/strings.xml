@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DrowsinessAlertSystem</string>
+
+    <string name="app_logo">Application Logo</string>
+    <string name="exam_login_subtitle">Connect your device as a secondary camera for exam monitoring</string>
+    <string name="exam_code_hint">Enter the code provided by your instructor</string>
+    <string name="join_exam">Join Exam</string>
+    <string name="error_empty_code">Please enter an exam code</string>
+    <string name="error_invalid_code">Invalid exam code. Please try again.</string>
+    <string name="warning_history">Warning History</string>
+    <string name="close">Close</string>
+    <string name="no_warnings">No warnings recorded</string>
+</resources>
