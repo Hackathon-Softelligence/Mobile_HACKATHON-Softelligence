@@ -60,4 +60,20 @@ An Android-based real-time drowsiness detection system using ML Kit Face Detecti
 
 @Softelligence
 
+# Drowsiness Alert System 🚨😴
 
+An Android-based real-time drowsiness detection system using ML Kit Face Detection and Firebase Cloud Firestore for logging incidents. This project is designed to enhance road safety by identifying signs of driver fatigue or distraction.
+
+---
+
+## 🔍 Features
+
+- 🚗 Real-time **face and eye detection** using ML Kit
+- 🧠 Head pose estimation and validation
+- 👥 Detection of **multiple people** in camera frame
+- 🔴 **Red bounding boxes** drawn around detected faces
+- 📸 Automatic **incident logging** to Firestore
+- ☁️ Firebase integration: Firestore + Cloud Storage (planned)
+- ⚙️ MVP Architecture with clean separation of concerns
+
+---
